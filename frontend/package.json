@@ -4,12 +4,10 @@
   "description": "WiFi Attendance System - Frontend",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "test": "vitest --run",
-    "start": "serve -s dist"
-  },
+  "dev": "vite",
+  "build": "vite build",
+  "start": "serve -s dist"
+},
   "dependencies": {
     "axios": "^1.7.2",
     "react": "^18.3.1",
